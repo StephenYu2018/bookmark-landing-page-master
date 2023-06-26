@@ -1,10 +1,10 @@
 import { useState } from 'react';
 
-import SiteLogo from '../svg-components/SiteLogo';
-import OpenMenuIcon from '../svg-components/OpenMenuIcon';
+import SiteLogo from './SiteLogo';
+import OpenMenuIcon from './OpenMenuIcon';
 import SiteLinks from './SiteLinks';
 import SocialMediaLinks from './SocialMediaLinks';
-import CloseMenuIcon from '../svg-components/CloseMenuIcon';
+import CloseMenuIcon from './CloseMenuIcon';
 
 export default function SiteHeader() {
   const [mobileNavModalIsShown, setMobileNavModalIsShown] = useState(false);

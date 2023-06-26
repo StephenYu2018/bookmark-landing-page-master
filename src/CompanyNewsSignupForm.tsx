@@ -58,7 +58,7 @@ export default function CompanyNewsSignupForm() {
               text-[0.875rem] text-very-dark-blue focus:outline-none 
               ${!emailIsValid ? 
                 `border-2 border-soft-red/90 rounded-t 
-                bg-[url('../../images/icon-error.svg')] 
+                bg-[url('../icon-error.svg')] 
                 bg-no-repeat bg-[right_0.875rem_center] 
                 placeholder:text-very-dark-blue` :
                 'rounded placeholder:text-very-dark-blue/25'

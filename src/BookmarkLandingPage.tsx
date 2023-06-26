@@ -1,9 +1,9 @@
-import SiteHeader from './components/SiteHeader';
-import SiteFooter from './components/SiteFooter';
-import Introduction from './page-sections/Introduction';
-import FeaturesSummary from './page-sections/FeaturesSummary';
-import ExtensionDownload from './page-sections/ExtensionDownload';
-import FAQ from './page-sections/FAQ';
+import SiteHeader from './SiteHeader';
+import SiteFooter from './SiteFooter';
+import Introduction from './Introduction';
+import FeaturesSummary from './FeaturesSummary';
+import ExtensionDownload from './ExtensionDownload';
+import FAQ from './FAQ';
 
 export default function BookmarkLandingPage() {
   return (

@@ -1,4 +1,4 @@
-import SiteLogo from '../svg-components/SiteLogo';
+import SiteLogo from './SiteLogo';
 import SiteLinks from './SiteLinks';
 import SocialMediaLinks from './SocialMediaLinks';
 

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ArrowIcon from "../svg-components/ArrowIcon";
+import ArrowIcon from "./ArrowIcon";
 
 class QuestionAnswerDictionary {
   public question: string;

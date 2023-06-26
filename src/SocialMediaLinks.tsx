@@ -1,5 +1,5 @@
-import FacebookLogo from '../svg-components/FacebookLogo';
-import TwitterLogo from '../svg-components/TwitterLogo';
+import FacebookLogo from './FacebookLogo';
+import TwitterLogo from './TwitterLogo';
 
 class SocialMediaLinkDictionary {
   public text: string;

@@ -2,6 +2,10 @@
 
 ![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
 
+Link to the site [here](https://fantastic-ganache-a9d460.netlify.app/)
+
+---
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

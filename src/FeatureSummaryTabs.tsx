@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
-import FeatureSimpleGraphics from '../svg-components/FeatureSimpleGraphics';
-import FeatureFastGraphics from '../svg-components/FeatureFastGraphics';
-import FeatureSharingGraphics from '../svg-components/FeatureSharingGraphics';
-import CapsuleBg from '../components/CapsuleBg';
+import FeatureSimpleGraphics from './FeatureSimpleGraphics';
+import FeatureFastGraphics from './FeatureFastGraphics';
+import FeatureSharingGraphics from './FeatureSharingGraphics';
+import CapsuleBg from './CapsuleBg';
 
 class FeatureSummaryDictionary {
   public tabLabel: string;

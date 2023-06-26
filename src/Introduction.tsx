@@ -1,5 +1,5 @@
-import CapsuleBg from '../components/CapsuleBg';
-import IntroductionHeroGraphics from '../svg-components/IntroductionHeroGraphics';
+import CapsuleBg from './CapsuleBg';
+import IntroductionHeroGraphics from './IntroductionHeroGraphics';
 
 export default function Introduction() {
   return (

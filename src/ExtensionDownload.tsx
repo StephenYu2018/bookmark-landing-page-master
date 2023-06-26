@@ -1,4 +1,4 @@
-import BrowserCards from '../BrowserCards';
+import BrowserCards from './BrowserCards';
 
 export default function ExtensionDownload() {
   return (

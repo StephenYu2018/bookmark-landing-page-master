@@ -1,7 +1,7 @@
-import ChromeLogo from '../svg-components/ChromeLogo';
-import DotsBackground from '../svg-components/DotsBackground';
-import FirefoxLogo from '../svg-components/FirefoxLogo';
-import OperaLogo from '../svg-components/OperaLogo';
+import ChromeLogo from './ChromeLogo';
+import DotsBackground from './DotsBackground';
+import FirefoxLogo from './FirefoxLogo';
+import OperaLogo from './OperaLogo';
 
 class BrowserCardDictionary {
   public name: string;
